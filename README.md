@@ -1,5 +1,67 @@
 # <a href="https://mobirise.com/builder/ai-website-builder.html">AI Website Builder</a>
 
+# Mobirise 6.1.4
+* Added option to change H tags for titles.
+* Added justify option for text alignment.
+* Added visible outline for focused elements to improve accessibility.
+* Added Recent Generations list to the 'Create with Mobirise AI' window.
+
+# Mobirise 6.0.5
+## New features
+* Better interface for an FTP publishing option.
+* Updated style for a cleaner, more modern interface.
+* Added icons for Bluesky and Threads in Mobirise Icons.
+
+## Fixes
+* Resolved issues with renaming and converting images to WebP format.
+* Implemented another fix to address the white screen issue.
+* Various minor interface fixes for better usability.
+* Code Editor: fix for saving global CSS correctly.
+* Minor fixes for the app.
+
+# Mobirise 6.0.1
+* The "Regenerate" button has been added: get more variants for your generations without losing attempts.
+* Introducing Clone Block – easily duplicate blocks within your project.
+* Updated style for a cleaner, more modern interface.
+* Resolved app crashes caused by video background.
+* Fixed issue with duplicating CSS.
+* Image links in project files are now replaced with WebP versions when conversion is enabled.
+
+<img src="https://r.mobirisesite.com/1316353/assets/images/v6-clone.jpg">
+
+# Mobirise v5.9.25
+## AI Features
+* Mobirise AI: now you see limits for generations.
+* Better interface for AI features.
+* If a theme is AI-adapted, you can now start your project and generate your website using it.
+* AI-adapted themes also allow you to create additional pages for your existing projects.
+* Minimal Prompt Length: The required prompt length has been reduced.
+* A small fix for generating AI websites starting with the StartM5 theme.
+
+## Fixes
+* User Blocks List: Fixed issues in the User Blocks List.
+* Site Image Library: You can remove images again.
+* Favicon: Corrected support for GIF, SVG, ICO, TIFF, and WEBP formats.
+* WebP Conversion: Default logos have been added to the exception list.
+* Mobirise Sites Publication: Fixed issues with publication for cloned projects.
+
+## Themes
+* StartM5: Improved compatibility with M4 themes.
+* Mobirise 5: Minor fixes.
+* Mobirise 5, StartM5: Updated the Twitter (X) icon to X.
+* PWA Builder: Fixed issue where the logo image was not converted to WEBP.
+
+# Mobirise v5.9.17
+* Mobirise AI is here — create your website with just a prompt! Find this new feature in the Sites list.
+* The autoplay feature now works for MP4 videos in pop-ups.
+* Fixed rendering issues in the CSS Editor when adding blocks from "More Blocks".
+* StartM5: Added new contact blocks to improve design flexibility.
+* StartM5: Displaying font sizes for countdowns blocks added.
+* StartM5: Fixed slider issues on wide screens.
+
+<img src="https://r.mobirisesite.com/1316353/assets/images/v6-ai.jpg">
+
+
 # Mobirise AI Website Builder 5.9
 
 ## Interface
